@@ -23,5 +23,6 @@ public class NumberConvertion {
 	public String convertOctal(String string){
 		
 		return Integer.toOctalString(Integer.parseInt(string));
+		
 	}
 }
